@@ -1,1 +1,1 @@
-"# udemyTraining" 
+Golang Training Course from Udemy.
